@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Demo_Kora.ai</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Banking\.DS_Store" />
+    <None Include="wwwroot\Banking\css\.DS_Store" />
+    <None Include="wwwroot\Banking\fonts\.DS_Store" />
+    <None Include="wwwroot\Banking\images\.DS_Store" />
+    <None Include="wwwroot\Banking\scss\.DS_Store" />
+    <None Include="wwwroot\Banking\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+</Project>
